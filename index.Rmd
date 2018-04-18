@@ -1,6 +1,6 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "Programming Credit Risk Scorecards in R"
+author: "Fernando Álvarez, Joshua Kunst"
 site: bookdown::bookdown_site
 documentclass: book
 output:
